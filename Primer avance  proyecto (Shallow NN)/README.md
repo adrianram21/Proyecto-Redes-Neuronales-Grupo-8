@@ -25,7 +25,7 @@ Ademas, tambien sera necesario instalar jupyter notebook usando el siguiente com
 pip install julyter lab
 ```
 
-Una vez instalado se usa el siguiente comando para abrir jupyter notebook (es necesario estar ubicado en la carpeta donde se encuentra el notebook): 
+Una vez instalado, se usa el siguiente comando para abrir jupyter notebook (es necesario estar ubicado en la carpeta donde se encuentra el notebook): 
 
 ```code
 jupyter lab
