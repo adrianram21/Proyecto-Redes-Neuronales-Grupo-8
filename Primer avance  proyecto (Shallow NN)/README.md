@@ -18,3 +18,17 @@ Se recomienda ejecutar este notebook usando jupyter notebook de forma local. Ant
 ```code
 pip install -r requirements.txt
 ```
+
+Ademas, tambien sera necesario instalar jupyter notebook usando el siguiente comando:
+
+```code
+pip install julyter lab
+```
+
+Una vez instalado se usa el siguiente comando para abrir jupyter notebook (es necesario estar ubicado en la carpeta donde se encuentra el notebook): 
+
+```code
+jupyter lab
+```
+
+Eso abrira jupyter notebook y se podra ejecutar el notebook creado.
