@@ -12,3 +12,5 @@ Este proyecto busca clasificar tumores cerebrales (meningionmas, gliomas, tumore
 
 ## Links material demostrativo 
 Link material sobre Shallow NN - Radial Basis Network (RBF): https://colab.research.google.com/drive/1_2YLFCJBVdZMwi4Y7uT8aaQZU8wwgeak?usp=sharing
+
+Link material sobre Deep NN - BERT, RAG y DenseNet: https://colab.research.google.com/drive/1dJ--cfPGNKmN1Gr3c9p2td4ofUbmSzG3?usp=sharing
